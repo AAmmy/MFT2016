@@ -10,6 +10,9 @@ https://drive.google.com/file/d/0B_o9vkhBpXoYRnJhLTEzNVIzaWM/view?usp=sharing<br
 [<img width="200" alt="ppt" src="1.png">](https://drive.google.com/open?id=0B_o9vkhBpXoYeUE2NVF2eUdTUTg)<br>
 https://drive.google.com/open?id=0B_o9vkhBpXoYeUE2NVF2eUdTUTg<br>
 
+これに関するQiita  
+http://qiita.com/aminyl/items/2afd0ad55c7a6fd3007  
+
 ###sample<br>
 学習済みの重みを用いてmnistのテストデータを識別<br>
 ###code<br>
