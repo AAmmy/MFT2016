@@ -1,4 +1,5 @@
 import numpy
+
 def load_params():
     wh = numpy.fromfile('mlp_wh', dtype='float32').reshape((784, 500))
     bh = numpy.fromfile('mlp_bh', dtype='float32')
@@ -12,7 +13,7 @@ def load_data():
     return x, y
 
 def pred(x, wh, bh, wl, bl):
-    oh = numpy.tanh(numpy.dot(x, wh) + bh)
+    oh = numpy.tanh(numpy.dot(x, wh) + bh) # tanh(WX + b)
     o = numpy.dot(oh, wl) + bl
     res = numpy.argmax(o)
     return res
@@ -23,8 +24,6 @@ if __name__ == '__main__':
     
     res = [pred(x, wh, bh, wl, bl) for x in test_x]
 
-    t = 0
-    for pred, gt in zip(res, test_y):
-        if pred == gt: t += 1
+    t = [pred == gt for pred, gt in zip(res, test_y)].count(True)
     print t / 100., '%'
 
