@@ -18,9 +18,9 @@ http://qiita.com/aminyl/items/2afd0ad55c7a6fd3007b
 ###code  
 当日使用したコード  
 ###code/Android/Learning  
-データ収集  
+データ収集, FTドライバ必要  
 ###code/Android/Auto  
-自動運転  
+自動運転, FTドライバ必要  
 ###code/Android/Controller  
 データ収集時のコントローラ  
 ボタン7個のレイアウトが必要  
