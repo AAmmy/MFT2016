@@ -13,18 +13,21 @@ https://drive.google.com/open?id=0B_o9vkhBpXoYeUE2NVF2eUdTUTg<br>
 これに関するQiita  
 http://qiita.com/aminyl/items/2afd0ad55c7a6fd3007b
 
-###sample<br>
-学習済みの重みを用いてmnistのテストデータを識別<br>
-###code<br>
-当日使用したコード<br>
-###code/Android/Learning<br>
-データ収集<br>
-###code/Android/Auto<br>
-自動運転<br>
-###code/Arduino<br>
-モータをドライブする Arduino Pro Mini の制御<br>
-###code/Python<br>
-集めたデータを別PCで学習<br>
+###sample  
+学習済みの重みを用いてmnistのテストデータを識別  
+###code  
+当日使用したコード  
+###code/Android/Learning  
+データ収集  
+###code/Android/Auto  
+自動運転  
+###code/Android/Controller  
+データ収集時のコントローラ  
+ボタン7個のレイアウトが必要  
+###code/Arduino  
+モータをドライブする Arduino Pro Mini の制御  
+###code/Python  
+集めたデータを別PCで学習  
 
 
 
