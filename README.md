@@ -28,6 +28,7 @@ http://qiita.com/aminyl/items/2afd0ad55c7a6fd3007b
 モータをドライブする Arduino Pro Mini の制御  
 ###code/Python  
 集めたデータを別PCで学習  
+Logistic_sgd部のみ  
 
 
 
