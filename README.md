@@ -4,11 +4,11 @@
 [Maker Faire Tokyo2016 機械学習を用いた自動運転](http://makezine.jp/event/makers2016/aminyl/)<br>
 
 概要 (動画)<br>
-https://drive.google.com/file/d/0B_o9vkhBpXoYRnJhLTEzNVIzaWM/view?usp=sharing<br>
+https://drive.google.com/open?id=0B_o9vkhBpXoYUEdaMzBiR2pMMUk<br>
 
 当日掲示していた資料<br>
 [<img width="200" alt="ppt" src="1.png">](https://drive.google.com/open?id=0B_o9vkhBpXoYeUE2NVF2eUdTUTg)<br>
-https://drive.google.com/open?id=0B_o9vkhBpXoYeUE2NVF2eUdTUTg<br>
+https://drive.google.com/open?id=0B_o9vkhBpXoYZWV0d1dsSTF3cUE<br>
 
 これに関するQiita  
 http://qiita.com/aminyl/items/2afd0ad55c7a6fd3007b
