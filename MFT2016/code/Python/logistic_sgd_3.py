@@ -1,4 +1,5 @@
 __docformat__ = 'restructedtext en'
+# cited from http://deeplearning.net/tutorial/
 import six.moves.cPickle as pickle
 import gzip, os, sys, timeit, numpy
 import theano, theano.tensor as T
